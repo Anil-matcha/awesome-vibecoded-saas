@@ -369,6 +369,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [huguangyu666/dsh-store](https://github.com/huguangyu666/dsh-store) — npm-authoritative catalog plus curated list (550+ plugins), with quality verification.
 - [icefall7/dsh-plugin-scout](https://github.com/icefall7/dsh-plugin-scout) — Scouts every `dsh-plugin`-tagged repo and judges each as worth trying, watching, or skipping.
 - [chenzhi-clude/dsh-plugin-market](https://github.com/chenzhi-clude/dsh-plugin-market) — AI-native marketplace with a machine-readable registry (all.json + llms.txt) built for agent-driven plugin search and one-command install.
+- [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) — FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
+
 
 ### Just for Fun
 
