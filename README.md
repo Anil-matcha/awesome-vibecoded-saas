@@ -407,3 +407,5 @@ PRs welcome. Keep entries to one line, link the actual plugin repo (not a fork o
 ---
 
 ⭐ If this saved you time hunting through the plugin ecosystem, star it so others can find it too.
+- [weibaohui/dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) — Code poetry: surfaces one of 4,598 classical Chinese poems, idioms or allusions as a reading card at session events (after each turn, or when a tool errors), with favorites and expandable annotations and backstories, styled as an ink-wash paper card.
+
