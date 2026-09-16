@@ -338,6 +338,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [kentleenot/dsh-trading-toolkit](https://github.com/kentleenot/dsh-trading-toolkit) — A-share and US stock trading toolkit for DSH agents: realtime quotes, OHLCV klines, ADX three-state regime signals and simple backtest previews via EastMoney. Read-only, never places orders.
 - [liyc-sys/dsh-fixed-income-skills](https://github.com/liyc-sys/dsh-fixed-income-skills) — Fixed-income / credit skills: issuer rating-migration watch (fundamentals + market-implied spread + catalysts) and rate-scenario analysis (historically anchored curve scenarios with duration-based exposure impact). Ported from the LLMQuant financial Agent Skills library.
 
+- [shiyan688/dsh-novel-craft](https://github.com/shiyan688/dsh-novel-craft) — Gacha-style taste-calibration workbench for fiction writing: read structurally different draft variants and tap 👍/👎 on passages (keyboard j/k/G/B), then the marks are distilled into reusable writing rules. Only the rules enter the model's context; raw quotes stay in a separate evidence file. Installable via `dsh plugin --profile web add dsh-novel-craft`.
+
 ### Development & Runtime
 
 - [863683348/dsh-plugin-verify](https://github.com/863683348/dsh-plugin-verify) — Evidence-based claim checking against workspace files with line citations.
