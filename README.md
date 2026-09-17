@@ -212,6 +212,9 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — Security-audit skill pack plus the plugin_vet supply-chain gate: eight bilingual agent skills and an automated pre-install scanner.
 - [beijingwahw/dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) — Transactional uninstall engine: every destructive action runs validate/preview/execute/undo with Saga rollback, WAL crash recovery, hash-chain audit, hardlink dedup, and a Bayesian oracle that predicts success probability before you commit.
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) — Evidence-first deep reading for books, articles, PDFs, and document sets with claim-evidence reports, knowledge maps, recall questions, a Host tool, and an optional Web reading panel.
+- [maxmilian/dsh-grafana-query](https://github.com/maxmilian/dsh-grafana-query) — Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules.
+- [maxmilian/dsh-sentry](https://github.com/maxmilian/dsh-sentry) — Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags.
+- [maxmilian/dsh-odoo](https://github.com/maxmilian/dsh-odoo) — Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models; a draft-create tool is registered only when allowWrite is enabled.
 
 ### Vision & Multimodal
 
