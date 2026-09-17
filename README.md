@@ -324,6 +324,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [temotee2103/dsh-ci-co-pilot](https://github.com/temotee2103/dsh-ci-co-pilot) — GitHub CI co-pilot for DeepSeek Harness: PR review, CI failure fixing, issue triage and release notes.
 - [maxmilian/dsh-forge](https://github.com/maxmilian/dsh-forge) — Read-only Gitea and Forgejo tools for self-hosted instances: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs.
 
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) — Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page.
+
 ### Security & Governance
 
 - [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — Commit-time agent governance harness: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained tamper-evident history, DSH plugin family via SkillHub.
