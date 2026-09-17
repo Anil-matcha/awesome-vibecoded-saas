@@ -351,6 +351,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [xgone/dsh-remote](https://github.com/xgone/dsh-remote) — Secure remote access for the DSH Web UI: account/password login gate, MFA/TOTP, role-based access, and an allowlisted in-browser file preview panel.
 - [mrRisega/dsh-remote](https://github.com/mrRisega/dsh-remote) — Password-gated reverse-proxy gateway to control the DSH Web UI from a phone browser with full feature coverage (including privileged methods): loopback masquerading, WebSocket passthrough, login rate limiting, optional TLS, LAN or public reverse-proxy deployment.
 - [Dawn388887/dsh-fileview](https://github.com/Dawn388887/dsh-fileview) — In-GUI file viewer/editor for remote browsers: same-origin fenced, path-allowlisted, encoding-preserving saves.
+- [hutao562/dsh-remote-dsh](https://github.com/hutao562/dsh-remote-dsh) — Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).
 - [xgone/dsh-netshell](https://github.com/xgone/dsh-netshell) — Local and remote SSH terminals for DeepSeek Harness Web, with three permission levels, human approval for risky AI commands, and encrypted credential storage.
 
 ### Output & Deliverables
