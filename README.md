@@ -401,6 +401,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [lucky8197/dsh-devquest](https://github.com/lucky8197/dsh-devquest) — Turns coding into an RPG: XP, 27+ achievement badges, levels, and seasons.
 - [minybear/DeepSeek-Harness-Pet](https://github.com/minybear/DeepSeek-Harness-Pet) — Codex-style desktop pet mirroring the agent's running state.
 - [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — Parody ads in 2005-Chinese-web style. All fictional.
+- [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) - Whale-girl desktop pet for the DSH Web UI: pat-to-raise growth, live work-state poses, 494 dialogue lines, 30 achievements and a built-in settings panel - all local, zero telemetry.
 - [ywleeo/dsh-md-preview](https://github.com/ywleeo/dsh-md-preview) — Sidebar workspace-row trigger opens a Markdown preview panel: nested collapsible directory tree, inline rendering, theme-aware, open in the system default app.
 - [dsh-persona-switcher](https://github.com/destr-z/dsh-persona-switcher) — Lightweight per-session persona switcher: template library in Settings, pick from the composer toolbar, applies instantly; single plugin, zero runtime dependencies, no core changes.
 ## Writing Your Own Plugin
