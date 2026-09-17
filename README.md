@@ -99,6 +99,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - - [ssjob123/dsh-file-panel-left](https://github.com/ssjob123/dsh-file-panel-left) — Files-only workbench sidebar: always-docked file tree, CodeMirror editor, previews, and @-references with real line numbers.
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) — Keyboard-first session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, focus-search — every binding rebindable with Windows/macOS presets.
 
+- [SiriLee/dsh-approval-hotkeys](https://github.com/SiriLee/dsh-approval-hotkeys) — Keyboard-first approval: Enter approves once, Esc rejects, Esc pauses review — works across approval and question panels.
 ### Usage & Billing
 
 - [melvinWEN/dsh-elegent-balance-tracker](https://github.com/melvinWEN/dsh-elegent-balance-tracker) — Elegant billing tracker: per-session cost (official peak/off-peak pricing by message time) under the composer stats plus official account balance right-aligned on the sidebar settings row, with per-minute balance re-alignment and real-time local-cost deduction in between.
