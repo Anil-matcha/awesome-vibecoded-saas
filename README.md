@@ -296,6 +296,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [AngelosZou/graphlint](https://github.com/AngelosZou/graphlint/tree/main/integrations/dsh) — Dead-code detection for AI-generated codebases via dependency-graph reachability.
 - [loadingvx/deepseek-harness-workbench-plugin](https://github.com/loadingvx/deepseek-harness-workbench-plugin) — Full IDE workbench inside the Web UI: multi-tab editing, workspace terminal, file tree, and SCM (stage/commit/push/pull, branch switch, git graph, inline diffs).
 - [temotee2103/dsh-ci-co-pilot](https://github.com/temotee2103/dsh-ci-co-pilot) — GitHub CI co-pilot for DeepSeek Harness: PR review, CI failure fixing, issue triage and release notes.
+- [maxmilian/dsh-forge](https://github.com/maxmilian/dsh-forge) — Read-only Gitea and Forgejo tools for self-hosted instances: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs.
 
 ### Security & Governance
 
@@ -313,6 +314,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [liuqingman/dsh-hawkeye-scan](https://github.com/liuqingman/dsh-hawkeye-scan) — AI-driven source-code security scanning workbench: 5 model tools (start/finding/status/report/list) plus a /hawkeye web UI and JSON/Markdown/HTML vulnerability reports; zero-dependency Cordis plugin, installable as agent preset or npm package.
 - [accpowered/dsh-credential-manager](https://github.com/accpowered/dsh-credential-manager) — Named credential manager: the model uses API keys, tokens, and logins by reference; secrets are injected into each shell run as `DSH_CM_*` env vars and never enter the conversation.
 - [accpowered/dsh-auto-review](https://github.com/accpowered/dsh-auto-review) — LLM auto-review for sandbox-escalation approvals under the `'auto'` policy: deterministic filter plus a clean-context reviewer model, fail-closed on every error path; requires a patched harness core (patches in core-patches/).
+- [maxmilian/dsh-sonarqube](https://github.com/maxmilian/dsh-sonarqube) — Read-only SonarQube Community Build tools: Quality Gate for a branch or pull request, issue and Security Hotspot search, and coverage, duplication or caller-selected measures.
 
 - [SiriLee/dsh-edit-approval](https://github.com/SiriLee/dsh-edit-approval) — Per-edit approval gate: red/green line diff review before write/edit/stream operations, optional bash-command approval (default off), fully configurable.
 ### Remote Access & Mobile
