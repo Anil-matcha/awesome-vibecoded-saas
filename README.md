@@ -203,6 +203,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [buhuikongpan/dsh-win-gitbash](https://github.com/buhuikongpan/dsh-win-gitbash) — Git Bash shell tool for Windows with timeout, sandbox, output truncation, and background jobs.
 - [beihzb/dsh-envsel](https://github.com/beihzb/dsh-envsel) — Session environment picker for DSH: per-language conda / standalone R / WSL / custom-path slots in the conversation header plus a /env command and session_env tool.
 - [dhicoc/dsh-codex-web-search-mcp](https://github.com/dhicoc/dsh-codex-web-search-mcp) — Registers codex-web-search-mcp as native DSH MCP tools (codex_web_search / codex_web_research / web_fetch) for model-independent Codex/Grok web search and deep research.
+- [moguiyu/dsh-tavily](https://github.com/moguiyu/dsh-tavily) — Opt-in advanced Tavily search tools (search, extract, map, crawl) with multi-key rotation/failover, a live usage gauge, and a keyed settings card; one version serves DSH 0.1.0-rc.7 through 0.1.2-alpha hosts, and the built-in web_search is never replaced.
 
 - [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) — Chinese novel writing assistant for DSH: sentence/emotion/imagery analysis, 6-dim writing-metric baseline band with per-chapter μ±σ, 12-axis vibe spectrum, style portrait report, local semantic search (0 token), plot & settings management, and 15 novel tools.
 
