@@ -1,0 +1,52 @@
+{
+  "slug": "my-podcast",
+  "name": "My Podcast",
+  "status": "existing",
+  "category": "Audio & Podcasting",
+  "repoUrl": "https://github.com/SamurAIGPT/my-podcast",
+  "license": "No license file found",
+  "openSourceStatus": "license-needed",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "ElevenLabs",
+    "Murf",
+    "PlayHT",
+    "Castmagic",
+    "Swell AI",
+    "Podcastle",
+    "Descript"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "elevenlabs",
+      "murf",
+      "playht",
+      "castmagic",
+      "swell-ai",
+      "podcastle",
+      "descript"
+    ]
+  },
+  "description": "A podcast workflow for generating voiceover and reusable episode assets, with room for transcription and show notes.",
+  "features": [
+    "Voiceover-oriented episode workflows",
+    "Reusable assets for podcast publishing",
+    "A foundation for transcription and show-note generation"
+  ],
+  "limitations": [
+    "A repository license must be added before calling this project open source",
+    "It does not reproduce premium voice cloning, dubbing, or licensing systems",
+    "Transcription, cleanup, hosting, and RSS distribution need additional components"
+  ],
+  "dependencies": [
+    "Audio processing tools",
+    "Object storage",
+    "Optional transcription runtime",
+    "Compatible speech generation services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "open-youtube-growth-radar",
+  "name": "Open YouTube Growth Radar",
+  "status": "planned",
+  "category": "Creator & YouTube",
+  "repoUrl": null,
+  "license": "TBD",
+  "openSourceStatus": "planned",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "1of10",
+    "Wholana",
+    "Vernigo",
+    "TranscriptAPI",
+    "ThumblifyAI"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "1of10",
+      "wholana",
+      "vernigo",
+      "transcriptapi",
+      "thumblifyai"
+    ]
+  },
+  "description": "A proposed creator dashboard that compares videos with each channel's own baseline, explains patterns, and generates publishing assets.",
+  "features": [
+    "Channel baselines and historical comparisons",
+    "Outlier video and content-pattern analysis",
+    "Support for titles, thumbnails, and publishing briefs"
+  ],
+  "limitations": [
+    "It would need persistent channel history and scheduled watchlists",
+    "Outlier scoring cannot imply a universal market corpus",
+    "YouTube quota, OAuth, and publishing policy constraints must be visible"
+  ],
+  "dependencies": [
+    "YouTube OAuth",
+    "YouTube API quota",
+    "Production database and scheduled jobs",
+    "Compatible language and transcription services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Can I Vibecode It?",
+  "url": "https://canivibecodeit.com",
+  "repositoryUrl": "https://github.com/canivibecodeit/canivibecodeit",
+  "contributingUrl": "https://github.com/canivibecodeit/canivibecodeit/blob/main/CONTRIBUTING.md",
+  "snapshotChecked": "2026-09-17",
+  "snapshotSize": "1,093 apps across 74 categories",
+  "popularitySnapshot": "2026-09-17",
+  "popularitySignal": "Public community replacement votes from the source stats page; every entry with at least five votes is included in the README shortlist.",
+  "usage": "Source-directory references only; this catalog adds independent project metadata."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "ai-youtube-shorts-generator",
+  "name": "AI YouTube Shorts Generator",
+  "status": "existing",
+  "category": "Video & Media",
+  "repoUrl": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "OpusClip",
+    "Revid AI"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "opusclip",
+      "revid"
+    ]
+  },
+  "description": "An open short-form video workflow that combines local media processing with optional AI-assisted generation.",
+  "features": [
+    "Short-form video assembly",
+    "Local processing paths for supplied media",
+    "A foundation for captions, narration, and publishing"
+  ],
+  "limitations": [
+    "It is not a full hosted SaaS editor",
+    "Output quality depends on local tools and selected services",
+    "Publishing and analytics require official platform integrations"
+  ],
+  "dependencies": [
+    "Local media-processing tools",
+    "ffmpeg and transcription dependencies",
+    "Optional compatible image, video, or speech services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

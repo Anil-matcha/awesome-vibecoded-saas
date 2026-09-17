@@ -1,0 +1,55 @@
+{
+  "slug": "open-generative-ai",
+  "name": "Open Generative AI",
+  "status": "existing",
+  "category": "AI & Creative",
+  "repoUrl": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "Midjourney",
+    "OpenArt",
+    "DreamStudio",
+    "Adobe Firefly",
+    "Kling AI",
+    "Runway",
+    "Pika",
+    "Luma Dream Machine",
+    "Ideogram"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "midjourney",
+      "openart",
+      "dreamstudio",
+      "adobe-firefly",
+      "kling-ai",
+      "runway",
+      "pika",
+      "luma-dream-machine",
+      "ideogram"
+    ]
+  },
+  "description": "A self-hostable creative studio that gives users a unified interface for common image and video generation workflows.",
+  "features": [
+    "Prompt-driven image and video workflows",
+    "A single workspace for multiple creative tasks",
+    "A foundation for self-hosted experimentation"
+  ],
+  "limitations": [
+    "Proprietary platform features and distribution networks are not included",
+    "Local and hosted modes can have different model coverage",
+    "Production deployments need their own storage, queues, and monitoring"
+  ],
+  "dependencies": [
+    "Compatible image and video generation services",
+    "Optional local inference dependencies",
+    "Object storage for production deployments"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

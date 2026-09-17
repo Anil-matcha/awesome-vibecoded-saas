@@ -1,0 +1,50 @@
+{
+  "slug": "ai-clipping-generator",
+  "name": "AI Clipping Generator",
+  "status": "existing",
+  "category": "Video & Media",
+  "repoUrl": "https://github.com/SamurAIGPT/ai-clipping-generator",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "OpusClip",
+    "Revid AI",
+    "Descript",
+    "Pictory",
+    "InVideo",
+    "VEED"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "opusclip",
+      "revid",
+      "descript",
+      "pictory",
+      "invideo",
+      "veed"
+    ]
+  },
+  "description": "A focused workflow for turning long-form or supplied media into short-form clips with AI-assisted selection and generation.",
+  "features": [
+    "Long-form media as the starting point",
+    "Short-form clip selection and generation",
+    "A base for adding captions and publishing workflows"
+  ],
+  "limitations": [
+    "It is not a mature transcript-based nonlinear editor",
+    "Media hosting, rendering queues, and distribution need ongoing operations",
+    "Clip quality depends on source media and model configuration"
+  ],
+  "dependencies": [
+    "ffmpeg",
+    "Object storage",
+    "Optional official publishing integrations",
+    "Compatible media generation services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

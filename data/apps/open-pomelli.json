@@ -1,0 +1,49 @@
+{
+  "slug": "open-pomelli",
+  "name": "Open-Pomelli",
+  "status": "existing",
+  "category": "Marketing & Creative",
+  "repoUrl": "https://github.com/SamurAIGPT/Open-Pomelli",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Canva",
+    "Adobe Express",
+    "Flair AI",
+    "Pebblely",
+    "PhotoRoom",
+    "Pixelcut"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "canva",
+      "adobe-express",
+      "flair-ai",
+      "pebblely",
+      "photoroom",
+      "pixelcut"
+    ]
+  },
+  "description": "A brand-aware campaign studio that extracts a brand direction and generates coordinated image, video, and marketing assets.",
+  "features": [
+    "Website and asset-based brand direction",
+    "Coordinated campaign asset generation",
+    "A starting point for repeatable creative briefs"
+  ],
+  "limitations": [
+    "It does not include a large template or stock-media library",
+    "Brand extraction quality depends on the supplied website and assets",
+    "Production integrations and asset governance need additional work"
+  ],
+  "dependencies": [
+    "Browser automation for website analysis",
+    "Object storage for uploaded brand assets",
+    "Compatible image and video generation services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

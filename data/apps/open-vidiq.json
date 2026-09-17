@@ -1,0 +1,48 @@
+{
+  "slug": "open-vidiq",
+  "name": "Open-VidIQ",
+  "status": "existing",
+  "category": "Creator & YouTube",
+  "repoUrl": "https://github.com/SamurAIGPT/Open-VidIQ",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "1of10",
+    "Wholana",
+    "Vernigo",
+    "ThumblifyAI",
+    "TranscriptAPI"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "1of10",
+      "wholana",
+      "vernigo",
+      "thumblifyai",
+      "transcriptapi"
+    ]
+  },
+  "description": "A starting point for a creator research and optimization dashboard that can rank videos against a channel's own baseline.",
+  "features": [
+    "Channel and video research",
+    "Baseline-oriented performance comparisons",
+    "A foundation for content and publishing insights"
+  ],
+  "limitations": [
+    "It needs a complete channel dashboard and persistent history",
+    "Outlier scoring and watchlist orchestration are application-side",
+    "It does not contain a continuously refreshed multi-million-video corpus"
+  ],
+  "dependencies": [
+    "YouTube OAuth",
+    "YouTube API quota",
+    "Production database for snapshots",
+    "Compatible language services for research features"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}
