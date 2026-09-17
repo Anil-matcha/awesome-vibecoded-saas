@@ -236,6 +236,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 ### Skills
 
 - [AKS1st/dsh-skill-manager](https://github.com/AKS1st/dsh-skill-manager) — Browse and edit system/user/workspace/preset skills, import from zip, export or delete.
+- [Leo3-7/dsh-obsidian-inbox](https://github.com/Leo3-7/dsh-obsidian-inbox) — Obsidian 知识库入库技能：按 7 步标准流程把 DSH 对话的结论/错题/项目整理进 Obsidian，含公式与结构两级确定性校验脚本 (Obsidian knowledge-base ingest skill, installed as a `dsh.bundle` skill-pack with two-level validation).
 - [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) — Software-engineering method pack: baseline-first planning, systematic debugging, and verification before completion.
 - [gongyijie85/dsh-ecc](https://github.com/gongyijie85/dsh-ecc) — 273 ECC skills ported from a large operator-system skill catalog.
 - [hackerFish/awesome-dsh-skills](https://github.com/hackerFish/awesome-dsh-skills) — 12 tested engineering skills, each passing a format validator and an isolated load smoke test.
