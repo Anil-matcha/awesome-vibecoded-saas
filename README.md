@@ -244,7 +244,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [gloryxpnv/dsh-tool-vision](https://github.com/gloryxpnv/dsh-tool-vision) — Local-first structured vision returning JSON evidence — images never leave the machine.
 - [good-boy4069/dsh-vision-guard](https://github.com/good-boy4069/dsh-vision-guard) — Transparent image guard avoiding session deadlocks, plus OCR/PDF/docx/pptx/video analysis.
 - [haiziyao/dsh-vision-mix](https://github.com/haiziyao/dsh-vision-mix) — Combines text, vision, and image-generation APIs into one auto-routing Mix model.
-- [Nicholas023/vision-exp-tile](https://github.com/Nicholas023/vision-exp-tile) — Large-image recognition for deepseek-v4-flash-vision-exp: lossless 800×800 tile recognition (smart/pipeline/full), local OCR with preprocessing & handwriting routing, optional multi-vendor GPU (DirectML/CUDA/OpenVINO) with auto CPU fallback.
+- [Nicholaskin/vision-exp-tile](https://github.com/Nicholaskin/vision-exp-tile) — Large-image recognition for deepseek-v4-flash-vision-exp: lossless 800×800 tile recognition (smart/pipeline/full), local OCR with preprocessing & handwriting routing, optional multi-vendor GPU (DirectML/CUDA/OpenVINO) with auto CPU fallback.
 - [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) — Durable background child agents on the official subagent seam plus persistent multi-agent team rooms with a message bus, shared task board, and approval-gated handoffs.
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) — Engineering-discipline guard: requirements grill before the first edit, red/green test-evidence gates, adversarial delivery review, and a per-dimension verification report.
 
