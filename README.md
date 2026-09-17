@@ -131,6 +131,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) — Ollama local-model integration: discover, pull, remove and inspect local models, route by task type or keyword with automatic cloud fallback, and a /ollama status overview.
 - [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) — Vendor parameter translation across 11 vendors plus deterministic JSON repair for broken tool output, never fabricating data.
 - [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — 8 original themes, translucent wallpaper with opacity/blur, per-user accent, shareable theme-pack import/export.
+- [shawnlone/dsh-theme-tuner](https://github.com/shawnlone/dsh-theme-tuner) — Theme-adjustment panel under Appearance: customize accent, background, foreground, contrast and gradient, applied live through theme token overrides.
 - [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) — Full custom theme colors, background wallpapers, and per-section transparency/blur, with import/export.
 
 ### Models & Providers
