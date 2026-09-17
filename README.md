@@ -1,4 +1,4 @@
-﻿# Awesome DSH Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome DSH Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated guide to [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) — DeepSeek's open-source, everything-is-a-plugin coding agent — and the best community plugins built on it.
 
@@ -97,6 +97,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [SnowCrescenter-tech/dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone) — Git-style dot timeline on the right edge of the DSH web UI: one dot per user message, hover for content & metadata, click to jump; full-session list, in-session & cross-session search, #msg= deep-link bookmarks, keyboard nav.
 - [stephenlzc/dsh-swarm-panel#dsh-swarm-plugin](https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin) — Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.
 - - [ssjob123/dsh-file-panel-left](https://github.com/ssjob123/dsh-file-panel-left) — Files-only workbench sidebar: always-docked file tree, CodeMirror editor, previews, and @-references with real line numbers.
+- [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) — Keyboard-first session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, focus-search — every binding rebindable with Windows/macOS presets.
 
 ### Usage & Billing
 
