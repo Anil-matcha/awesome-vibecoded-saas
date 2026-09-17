@@ -157,6 +157,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [WNJXYK/dsh-codex-oauth](https://github.com/WNJXYK/dsh-codex-oauth) — Use a ChatGPT/Codex subscription in DSH with GPT models, image generation, web search, and browser or device-code OAuth sign-in.
 - [r600a-code/dsh-swarm-router](https://github.com/r600a-code/dsh-swarm-router) — Routes heterogeneous tasks to the best-suited model with feedback-driven ranking.
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) — Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — no manual model switching.
+- [YUEYUEXYS/dsh-think-ultra](https://github.com/YUEYUEXYS/dsh-think-ultra) — Reasoning layer for DeepSeek Harness that keeps requests on native max effort while adding isolated Flash, Vision, and Pro depth controls and reasoning toolboxes.
 
 ### Sessions & Messages
 
@@ -201,6 +202,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [dearbld/dsh-living-memory](https://github.com/dearbld/dsh-living-memory) - Self-tending living memory in one local SQLite file: nightly patrol (dedupe/merge/decay/cross-link), seven-signal RRF recall (FTS5+jieba, optional vectors, graph PPR), typed knowledge graph, conflict detection, web telemetry panels.
 - [weibaohui/context-razor](https://github.com/weibaohui/context-razor) — Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.
 - [weibaohui/hermes-loop](https://github.com/weibaohui/hermes-loop) — Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly).
+- [Mutx163/dsh-model-memory](https://github.com/Mutx163/dsh-model-memory) — Reasoning-effort tier management for custom API models (low, medium, high, max) plus cross-session per-channel memory that restores the last model and effort level.
+
 ### Tools & Capabilities
 
 - [988hj7tczd-oss/dsh-computer-use](https://github.com/988hj7tczd-oss/dsh-computer-use) — Cross-platform Computer Use: virtual-mouse operation, AX-tree zero-vision-cost mode, and safety guards.
