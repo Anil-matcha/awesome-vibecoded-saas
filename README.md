@@ -398,6 +398,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [Flan246/dsh-lit-search](https://github.com/Flan246/dsh-lit-search) — Academic literature search, citation formatting (GB/T 7714 / APA / BibTeX) and related-works tools, powered by Crossref + OpenAlex with no API key. Install via `dsh plugin add dsh-lit-search`.
 - [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) — LaTeX compile check (auto xelatex/lualatex detection) plus BibTeX lint, field-fill and cite-audit tools. Install via `dsh plugin add dsh-latex-guard`.
 
+- [shiyan688/dsh-novel-craft](https://github.com/shiyan688/dsh-novel-craft) — Novel-writing workbench that learns the author's taste: mark 👍/👎 while reading draft variants (keyboard j/k/G/B), and the marks are distilled into reusable writing rules — only the rules reach the writing context (three explicit, capped exceptions, documented in the README). Also ships: new-chapter workflow (scene-decision directions → candidate drafts → passage picking → merged final draft), note-driven revision that rewrites *only* the annotated paragraphs with character-exact verification, and local plot/ledger checks that never feed the manuscript to a model. 775 assertions; verified on dsh 0.1.5-rc.1/rc.2. Installable via `dsh plugin --profile web add dsh-novel-craft`.
+
 ### Development & Runtime
 
 - [MajidAsghariTabrizi/universal-engineering-agent](https://github.com/MajidAsghariTabrizi/universal-engineering-agent) — Profile-agnostic, runnable, MIT reference implementation of the UEA 9-stage operating-kernel contract. Inspect → plan → implement → verify → classify → recover → test → generalize. Zero runtime deps. ([DSH #5513](https://github.com/deepseek-ai/deepseek-harness/discussions/5513))
