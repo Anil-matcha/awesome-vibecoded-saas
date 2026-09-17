@@ -100,6 +100,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) — Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies, with live summary chips for running steps, a click-to-expand per-turn trace with hover-peek, auto/manual fold modes, and context-injection rows folded too.
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) — Keyboard-first session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, focus-search — every binding rebindable with Windows/macOS presets.
 
+- [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) — Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser.
 - [SiriLee/dsh-approval-hotkeys](https://github.com/SiriLee/dsh-approval-hotkeys) — Keyboard-first approval: Enter approves once, Esc rejects, Esc pauses review — works across approval and question panels.
 ### Usage & Billing
 
