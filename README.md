@@ -309,6 +309,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 
 ### Security & Governance
 
+- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — Commit-time agent governance harness: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained tamper-evident history, DSH plugin family via SkillHub.
 - [cdxiaodong/dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) — Agent security guardrail: intercepts and audits every tool call, requiring human confirmation on sensitive operations.
 - [JohnXu22786/secret-guard](https://github.com/JohnXu22786/secret-guard) — Blocks agents from reading or writing sensitive files (.env, credentials, keys), masks leaked secret-shaped values, and keeps an audit journal.
 - [LeslieWylie/dsh-fleet-audit](https://github.com/LeslieWylie/dsh-fleet-audit) — Read-only agent-fleet credential-hygiene audit: file permissions, embedded credentials in git remotes, provider-token literal counts.
