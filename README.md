@@ -350,6 +350,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) — Academic writing guard: removes AI-style defensive writing, protects scientific evidence, calibrates tone toward a target journal.
 - [kentleenot/dsh-trading-toolkit](https://github.com/kentleenot/dsh-trading-toolkit) — A-share and US stock trading toolkit for DSH agents: realtime quotes, OHLCV klines, ADX three-state regime signals and simple backtest previews via EastMoney. Read-only, never places orders.
 - [liyc-sys/dsh-fixed-income-skills](https://github.com/liyc-sys/dsh-fixed-income-skills) — Fixed-income / credit skills: issuer rating-migration watch (fundamentals + market-implied spread + catalysts) and rate-scenario analysis (historically anchored curve scenarios with duration-based exposure impact). Ported from the LLMQuant financial Agent Skills library.
+- [Flan246/dsh-lit-search](https://github.com/Flan246/dsh-lit-search) — Academic literature search, citation formatting (GB/T 7714 / APA / BibTeX) and related-works tools, powered by Crossref + OpenAlex with no API key. Install via `dsh plugin add dsh-lit-search`.
+- [Flan246/dsh-latex-guard](https://github.com/Flan246/dsh-latex-guard) — LaTeX compile check (auto xelatex/lualatex detection) plus BibTeX lint, field-fill and cite-audit tools. Install via `dsh plugin add dsh-latex-guard`.
 
 ### Development & Runtime
 
