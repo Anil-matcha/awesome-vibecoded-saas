@@ -63,7 +63,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 ## Plugin Categories
 
 ### UI Enhancements
-
+- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — Typewriter-animated rainbow status phrases, live status pill, tab titles, schedule presets — and every phrase floats by as video-site-style danmaku behind the UI.
 - [0xsline/dsh-spotlight](https://github.com/0xsline/dsh-spotlight) — Keyboard-first command palette for the DSH Web UI.
 - [1123762794/dsh-web-restart](https://github.com/1123762794/dsh-web-restart) — Sidebar footer button that restarts the dsh web process and persists across the restart it triggers.
 - [13071301808/dsh-composer-expand](https://github.com/13071301808/dsh-composer-expand) — Expand/collapse toggle that grows the composer to a tall 70vh writing view for long drafts.
@@ -422,3 +422,4 @@ PRs welcome. Keep entries to one line, link the actual plugin repo (not a fork o
 ---
 
 ⭐ If this saved you time hunting through the plugin ecosystem, star it so others can find it too.
+
