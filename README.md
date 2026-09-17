@@ -156,6 +156,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) — Cross-device session sync through a dedicated git mirror with append-only three-way merge (keep-both + fork conflicts), a /sync command, and auto push/pull.
 - [WNJXYK/dsh-codex-oauth](https://github.com/WNJXYK/dsh-codex-oauth) — Use a ChatGPT/Codex subscription in DSH with GPT models, image generation, web search, and browser or device-code OAuth sign-in.
 - [r600a-code/dsh-swarm-router](https://github.com/r600a-code/dsh-swarm-router) — Routes heterogeneous tasks to the best-suited model with feedback-driven ranking.
+- [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) — Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — no manual model switching.
 
 ### Sessions & Messages
 
@@ -228,6 +229,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — Security-audit skill pack plus the plugin_vet supply-chain gate: eight bilingual agent skills and an automated pre-install scanner.
 - [beijingwahw/dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) — Transactional uninstall engine: every destructive action runs validate/preview/execute/undo with Saga rollback, WAL crash recovery, hash-chain audit, hardlink dedup, and a Bayesian oracle that predicts success probability before you commit.
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) — Evidence-first deep reading for books, articles, PDFs, and document sets with claim-evidence reports, knowledge maps, recall questions, a Host tool, and an optional Web reading panel.
+- [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) — Data quality checking for DeepSeek Harness: profiling, cleaning, and verification pipelines with structured reports.
 - [maxmilian/dsh-grafana-query](https://github.com/maxmilian/dsh-grafana-query) — Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules.
 - [maxmilian/dsh-sentry](https://github.com/maxmilian/dsh-sentry) — Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags.
 - [maxmilian/dsh-odoo](https://github.com/maxmilian/dsh-odoo) — Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models; a draft-create tool is registered only when allowWrite is enabled.
@@ -263,6 +265,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) — 88 source-verifiable Agent Skills with a native DSH installer targeting `.dsh/skills`, covering research, social intelligence, marketing, and business workflows including multi-source evidence validation.
 - [Daive1119/local-ocr](https://github.com/Daive1119/local-ocr) — Offline local OCR skill for vision-less models: Windows native engine first (RapidOCR/Tesseract fallback), images + PDF, structured JSON output with confidence semantics, zero cloud cost.
 - [YTyangtao666/dsh-skills-bridge](https://github.com/YTyangtao666/dsh-skills-bridge) — Mount your existing Claude Code skills (~/.claude/skills, ~/.agents/skills, custom dirs) into DSH as a native SkillProvider: frontmatter auto-normalized (when_to_use→whenToUse), rank-250 conflict policy, optional hot-reload, zero runtime deps.
+- [PerryLink/dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) — Merged, version-locked plugin upgrade skill: 0.1.3-alpha.1 → 0.1.5-rc.1 as two closed legs — an evidence-bound version card plus a zero-dependency 20-seam scanner.
 - [weibaohui/skills-management](https://github.com/weibaohui/skills-management) — Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.
 
 
@@ -284,8 +287,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [dickpy/dsh-cloud-sync](https://github.com/dickpy/dsh-cloud-sync) — Syncs DSH profiles and plugin archives through WebDAV/S3-compatible storage with encrypted snapshots.
 - [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) — Official-grade GitHub CI integration: a composite action, polling PR review bot with idempotent inline comments, a status-check gate, and approval-gated PR/issue tools.
 - [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) — LSP action surface: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints and rename over real language servers.
+- [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) — Persistent, cross-session multi-agent team rooms for DeepSeek Harness: members, a message bus, a shared task board, and a shared timeline that survive restarts.
 - [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) — Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
-
 - [weibaohui/dsh-process](https://github.com/weibaohui/dsh-process) — Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage.
 
 ### Notifications & Integrations
@@ -312,6 +315,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) — Declarative Claude Code-style allow/deny/ask permission rules plus a Codex-style process-level network policy with a built-in local HTTP/CONNECT proxy.
 - [UllrAI/dsh-mqtt](https://github.com/UllrAI/dsh-mqtt) — MQTT agent gateway for submitting, steering, observing, and cancelling DSH sessions over authenticated or TLS broker connections.
 - [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) — Connects DeepSeek Harness to Feishu, WeChat, DingTalk, WeCom, QQ, Slack, Telegram, Discord, and WhatsApp through one settings page, using QR codes, an app manifest, or bot credentials.
+- [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) — Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console and per-channel security.
+- [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint.
 
 ### Git & Engineering
 
@@ -383,6 +388,9 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) — Academic writing guard: removes AI-style defensive writing, protects scientific evidence, calibrates tone toward a target journal.
 - [kentleenot/dsh-trading-toolkit](https://github.com/kentleenot/dsh-trading-toolkit) — A-share and US stock trading toolkit for DSH agents: realtime quotes, OHLCV klines, ADX three-state regime signals and simple backtest previews via EastMoney. Read-only, never places orders.
 - [liyc-sys/dsh-fixed-income-skills](https://github.com/liyc-sys/dsh-fixed-income-skills) — Fixed-income / credit skills: issuer rating-migration watch (fundamentals + market-implied spread + catalysts) and rate-scenario analysis (historically anchored curve scenarios with duration-based exposure impact). Ported from the LLMQuant financial Agent Skills library.
+- [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) — Deterministic industry research reports for DeepSeek Harness: company and industry research flows produce structured, verifiable reports from staged evidence.
+- [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) — Verifiable research-report engine with a content-addressed evidence ledger, versioned sealed reports where every claim carries a verification verdict, and retrieval orchestration over ctx.web and ctx.jobs.
+- [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — Deterministic research reports for Chinese public mutual funds: performance decomposition, holdings penetration, style attribution and manager profiles, with per-number snapshot traceability.
 - [weibaohui/experts-management](https://github.com/weibaohui/experts-management) — Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-<name> without consuming model directory tokens.
 - [Haniubub/seo-toolkit](https://github.com/Haniubub/seo-toolkit) — Full local & technical SEO audit toolkit for DSH: deterministic Python measurement (53 scripts) + LLM judgment (24 sub-skills, 18 agents), weighted scoring, gated multi-agent fan-out, schema.org, E-E-A-T, GBP, GEO/AI Overviews. ~4¢ per audit.
 - [Flan246/dsh-lit-search](https://github.com/Flan246/dsh-lit-search) — Academic literature search, citation formatting (GB/T 7714 / APA / BibTeX) and related-works tools, powered by Crossref + OpenAlex with no API key. Install via `dsh plugin add dsh-lit-search`.
@@ -406,6 +414,9 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — Local-first runtime whose installable `managed-agents` DSH plugin exposes six MCP tools for persistent sessions, streamed turns, artifacts, cancellation, audit/replay, and local/Docker/Kubernetes/self-hosted-worker sandboxes.
 - [chunfenxiazhi-collab/dsh-stability-audit](https://github.com/chunfenxiazhi-collab/dsh-stability-audit) — Stability audit for installed dsh plugins: static risk grading (hook surface, startup work, inject, entry, dep ranges) plus optional isolated install verification.
 - [sylkmpo/dsh-web-app-launcher](https://github.com/sylkmpo/dsh-web-app-launcher) — Runs dsh web like a Windows desktop app while the native web UI stays the engine (no Electron, no fork): auto-creates a DeepSeek Harness.lnk shortcut that opens the Web UI in a frameless Edge/Chrome/Brave/Vivaldi app window and exits the harness when the window closes.
+- [PerryLink/dsh-plugin-kit](https://github.com/PerryLink/dsh-plugin-kit) — Plugin-authoring toolkit for DeepSeek Harness: shared provider seams, a bundle skeleton and family conventions (npm @perrylink/dsh-plugin-kit).
+- [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) — Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: R/K/D/CC four-layer checks.
+- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — Read-only MCP server exposing the dsh-plugin-certification registry: grades, snapshot dates and five-dimension evidence.
 
 ### Plugin Markets & Managers
 
