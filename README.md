@@ -144,6 +144,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [fieldnote-ops/keyringseam](https://github.com/fieldnote-ops/keyringseam) — macOS Keychain credential provider replacing the local-file default.
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) — Connects ChatGPT OAuth / OpenAI Codex models to the harness.
 - [GodD6366/dsh-sub2api](https://github.com/GodD6366/dsh-sub2api) — OpenAI-compatible multi-provider routes (OpenAI/Claude/Grok/Gemini) behind one base URL.
+- [MajidAsghariTabrizi/free-best-router](https://github.com/MajidAsghariTabrizi/free-best-router) — OpenAI-compat routing layer across 7 free LLM providers (OpenRouter, OpenCode/Zen, Groq, Cerebras, Mistral, DeepSeek, local) with Wilson + Bayesian scoring, per-failure cooldowns, and bounded 4-attempt fallback. MIT, zero telemetry.
 - [kam74515-boop/dsh-everything-oauth](https://github.com/kam74515-boop/dsh-everything-oauth) — Imports existing Codex, Grok, Claude, and OpenCode logins so you don't re-auth per tool.
 - [katsos/dsh-claude-cli](https://github.com/katsos/dsh-claude-cli) — Runs the local Claude Code CLI as a model backend over an existing subscription instead of a metered key.
 - [NOirBRight/dsh-llm-ollama](https://github.com/NOirBRight/dsh-llm-ollama) — Ollama Cloud native chat adapter with model discovery and web search/fetch providers.
