@@ -181,6 +181,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) — Cache-friendly three-layer memory with per-turn consolidation and inheritance from other AI tools.
 - [akslcw/dsh-negative-ledger](https://github.com/akslcw/dsh-negative-ledger) — Persists disproven paths and blocks repeat attempts until evidence changes.
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — Context-insight panel showing exactly what's filling the model's window and why.
+- [busabase/busabase-dsh-plugin](https://github.com/busabase/busabase-dsh-plugin) — Connects DSH agents to Busabase structured knowledge, bases, and records with live inspector rendering and approval-gated ChangeRequests.
 - [flymysql/dsh-memory](https://github.com/flymysql/dsh-memory) — Cross-session memory vault: remember / recall / forget tools with prompt injection.
 - [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — Multi-agent spatiotemporal memory graph with a self-evolving knowledge flywheel and auditable trust guardrails.
 - [GIT121995/dsh-memory-gate](https://github.com/GIT121995/dsh-memory-gate) — Bounded local memory with explainable use/verify/ignore decisions, a full audit trail, and a tight per-call injection cap.
