@@ -257,6 +257,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) — 88 source-verifiable Agent Skills with a native DSH installer targeting `.dsh/skills`, covering research, social intelligence, marketing, and business workflows including multi-source evidence validation.
 - [Daive1119/local-ocr](https://github.com/Daive1119/local-ocr) — Offline local OCR skill for vision-less models: Windows native engine first (RapidOCR/Tesseract fallback), images + PDF, structured JSON output with confidence semantics, zero cloud cost.
 - [YTyangtao666/dsh-skills-bridge](https://github.com/YTyangtao666/dsh-skills-bridge) — Mount your existing Claude Code skills (~/.claude/skills, ~/.agents/skills, custom dirs) into DSH as a native SkillProvider: frontmatter auto-normalized (when_to_use→whenToUse), rank-250 conflict policy, optional hot-reload, zero runtime deps.
+- [weibaohui/skills-management](https://github.com/weibaohui/skills-management) — Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.
 
 
 ### Workflow & Automation
