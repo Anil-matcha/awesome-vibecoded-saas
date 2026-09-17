@@ -356,6 +356,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [hutao562/dsh-remote-dsh](https://github.com/hutao562/dsh-remote-dsh) — Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).
 - [xgone/dsh-netshell](https://github.com/xgone/dsh-netshell) — Local and remote SSH terminals for DeepSeek Harness Web, with three permission levels, human approval for risky AI commands, and encrypted credential storage.
 
+- [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) — WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
+
 ### Output & Deliverables
 
 - [Devin-AXIS/deepseek-design#deepseek-idesign](https://github.com/Devin-AXIS/deepseek-design/tree/main/packages/deepseek-idesign) — Visual design studio for websites, prototypes, posters, and reports, with templates and direct element editing.
