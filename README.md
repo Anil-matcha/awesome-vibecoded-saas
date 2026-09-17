@@ -364,6 +364,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 
 ### Development & Runtime
 
+- [MajidAsghariTabrizi/universal-engineering-agent](https://github.com/MajidAsghariTabrizi/universal-engineering-agent) — Profile-agnostic, runnable, MIT reference implementation of the UEA 9-stage operating-kernel contract. Inspect → plan → implement → verify → classify → recover → test → generalize. Zero runtime deps. ([DSH #5513](https://github.com/deepseek-ai/deepseek-harness/discussions/5513))
 - [863683348/dsh-plugin-verify](https://github.com/863683348/dsh-plugin-verify) — Evidence-based claim checking against workspace files with line citations.
 - [863683348/dsh-trend-radar](https://github.com/863683348/dsh-trend-radar) — Ecosystem trend dashboard: new plugins, star gainers, category heat, keyword radar.
 - [ai-eks/dsh-auth-tunnel](https://github.com/ai-eks/dsh-auth-tunnel) — Password-gated public access through Cloudflare Tunnels with an in-app directory picker.
