@@ -331,7 +331,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 ### Remote Access & Mobile
 
 - [Phant0Meow/dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) — Mobile-first UX polish for the DSH Web UI (composer auto-fold, compact mobile sidebar/header/settings, zoom lock) plus notifications when AI finishes long tasks or asks for permission (in-page cards, Web Push, Bark webhook); zero dsh changes, Tailscale phone-access guide included.
-- [mrgaoang/dsh-remote](https://github.com/mrgaoang/dsh-remote) — Password-gated reverse-proxy gateway to control the DSH Web UI from a phone browser with full feature coverage (including privileged methods): loopback masquerading, WebSocket passthrough, login rate limiting, optional TLS, LAN or public reverse-proxy deployment.
+- [mrRisega/dsh-remote](https://github.com/mrRisega/dsh-remote) — Password-gated reverse-proxy gateway to control the DSH Web UI from a phone browser with full feature coverage (including privileged methods): loopback masquerading, WebSocket passthrough, login rate limiting, optional TLS, LAN or public reverse-proxy deployment.
 - [Dawn388887/dsh-fileview](https://github.com/Dawn388887/dsh-fileview) — In-GUI file viewer/editor for remote browsers: same-origin fenced, path-allowlisted, encoding-preserving saves.
 
 ### Output & Deliverables
