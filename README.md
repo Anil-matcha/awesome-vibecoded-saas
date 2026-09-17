@@ -402,7 +402,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [minybear/DeepSeek-Harness-Pet](https://github.com/minybear/DeepSeek-Harness-Pet) — Codex-style desktop pet mirroring the agent's running state.
 - [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — Parody ads in 2005-Chinese-web style. All fictional.
 - [ywleeo/dsh-md-preview](https://github.com/ywleeo/dsh-md-preview) — Sidebar workspace-row trigger opens a Markdown preview panel: nested collapsible directory tree, inline rendering, theme-aware, open in the system default app.
-
+- [dsh-persona-switcher](https://github.com/destr-z/dsh-persona-switcher) — Lightweight per-session persona switcher: template library in Settings, pick from the composer toolbar, applies instantly; single plugin, zero runtime dependencies, no core changes.
 ## Writing Your Own Plugin
 
 1. Scaffold a `dsh.bundle` manifest declaring what your plugin extends (model, tool, sandbox, UI, session store, or the agent loop itself).
