@@ -1,0 +1,60 @@
+{
+  "slug": "open-seo",
+  "name": "Open SEO / Open GEO",
+  "status": "planned",
+  "category": "Marketing & SEO",
+  "repoUrl": null,
+  "license": "TBD",
+  "openSourceStatus": "planned",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "Ahrefs",
+    "Semrush",
+    "AccuRanker",
+    "Surfer SEO",
+    "Frase",
+    "Clearscope",
+    "BrandGEO",
+    "100 Questions",
+    "AmICited",
+    "LLM Pulse",
+    "Profound"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "ahrefs",
+      "semrush",
+      "accuranker",
+      "surfer-seo",
+      "frase",
+      "clearscope",
+      "brandgeo",
+      "100-questions",
+      "amicited",
+      "llm-pulse",
+      "profound"
+    ]
+  },
+  "description": "A proposed SEO and AI-search visibility dashboard for owned sites, transparent rank snapshots, technical audits, and prioritized content fixes.",
+  "features": [
+    "Owned-site technical audits",
+    "Transparent rank and visibility snapshots",
+    "Content briefs and prioritized fixes"
+  ],
+  "limitations": [
+    "It would not have a proprietary crawl or backlink index at launch",
+    "Tenant-aware history, crawl orchestration, and Search Console OAuth are required",
+    "Data-collection boundaries must be defined before implementation"
+  ],
+  "dependencies": [
+    "Site crawl and rendering runtime",
+    "Optional Google Search Console OAuth",
+    "Production database for snapshots",
+    "Compatible language services for content analysis"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

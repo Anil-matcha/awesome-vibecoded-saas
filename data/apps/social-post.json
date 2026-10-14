@@ -1,0 +1,50 @@
+{
+  "slug": "social-post",
+  "name": "social-post",
+  "status": "existing",
+  "category": "Social & Creator",
+  "repoUrl": "https://github.com/SamurAIGPT/social-post",
+  "license": "No license file found",
+  "openSourceStatus": "license-needed",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Buffer",
+    "Postiz",
+    "FeedHive",
+    "Flick",
+    "Typefully",
+    "Predis.ai"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "buffer",
+      "postiz",
+      "feedhive",
+      "flick",
+      "typefully",
+      "predis-ai"
+    ]
+  },
+  "description": "A social-content generation and publishing workflow for creating platform-specific drafts and planning distribution.",
+  "features": [
+    "Platform-specific content variants",
+    "Draft creation and publishing workflow",
+    "A foundation for scheduling and content review"
+  ],
+  "limitations": [
+    "A repository license must be added before calling this project open source",
+    "Official platform OAuth, queues, analytics, and policy compliance remain necessary",
+    "It does not reproduce a multi-network social inbox"
+  ],
+  "dependencies": [
+    "Official platform OAuth",
+    "Platform API quotas",
+    "Production job queue",
+    "Compatible content generation services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

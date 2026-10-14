@@ -1,0 +1,41 @@
+{
+  "slug": "vibe-workflow",
+  "name": "Vibe Workflow",
+  "status": "existing",
+  "category": "Creative Workflows",
+  "repoUrl": "https://github.com/SamurAIGPT/Vibe-Workflow",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Krea",
+    "Wireflow"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "krea",
+      "wireflow"
+    ]
+  },
+  "description": "A node-based creative workflow editor for composing, rerunning, and inspecting media-generation pipelines.",
+  "features": [
+    "Visual composition of multi-step workflows",
+    "Reusable nodes for creative operations",
+    "Inspection and rerunning of workflow outputs"
+  ],
+  "limitations": [
+    "It is not a real-time generation system",
+    "Node coverage depends on the connected services",
+    "Team collaboration and asset management need application work"
+  ],
+  "dependencies": [
+    "Compatible image and video generation services",
+    "A production database for saved workflows",
+    "Object storage for workflow outputs"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

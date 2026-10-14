@@ -1,0 +1,46 @@
+{
+  "slug": "amazon-product-studio",
+  "name": "Amazon Product Studio",
+  "status": "existing",
+  "category": "Commerce & Product",
+  "repoUrl": "https://github.com/SamurAIGPT/amazon-product-studio",
+  "license": "No license file found",
+  "openSourceStatus": "license-needed",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Flair AI",
+    "Pebblely",
+    "PhotoRoom",
+    "Pixelcut"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "flair-ai",
+      "pebblely",
+      "photoroom",
+      "pixelcut"
+    ]
+  },
+  "description": "A product-image workflow for generating marketplace-ready scenes and variants from supplied product photos.",
+  "features": [
+    "Product image upload",
+    "Marketplace-oriented scene generation",
+    "Variants for product listings and campaigns"
+  ],
+  "limitations": [
+    "A repository license must be added before calling this project open source",
+    "It does not include a large licensed asset library or marketplace distribution network",
+    "Batch processing and catalog integrations need application work"
+  ],
+  "dependencies": [
+    "Object storage",
+    "Product images supplied by the user",
+    "Optional commerce-platform integrations",
+    "Compatible image editing services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}

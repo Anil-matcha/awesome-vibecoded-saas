@@ -1,0 +1,41 @@
+{
+  "slug": "ai-broll",
+  "name": "AI B-roll",
+  "status": "existing",
+  "category": "Video Assets",
+  "repoUrl": "https://github.com/Anil-matcha/AI-B-roll",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "InVideo",
+    "Pictory"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "invideo",
+      "pictory"
+    ]
+  },
+  "description": "A hybrid B-roll workflow that turns script lines into candidate generated clips and can use permitted stock media.",
+  "features": [
+    "Script-line prompts for visual candidates",
+    "Generated clips for supporting footage",
+    "Support for user-owned or permitted stock media"
+  ],
+  "limitations": [
+    "It does not include a licensed stock-media catalog",
+    "Search, rights metadata, and asset delivery need integrations",
+    "Generation cost and duration depend on the selected services"
+  ],
+  "dependencies": [
+    "Permitted stock-media sources when using stock footage",
+    "Notebook or web application runtime",
+    "Compatible video generation services"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
+}
